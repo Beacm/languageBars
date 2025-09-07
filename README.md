@@ -12,6 +12,15 @@ This project is a fun and interactive way to show off your language skills (or w
 - 🔗 Easy to **embed in GitHub README** or any webpage.
 
 ---
+## 🛠️ Tecnologías
+<table>
+<tr>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/10301/10301524.png" width="40" height="40"><br>SVG</td>
+
+</tr>
+</table>
+
+---
 
 ## 🖼️ Demo
 
