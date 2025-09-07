@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="260" viewBox="0 0 760 260">
+<rect x="0" y="0" width="760" height="260" fill="#1a1b27" rx="16" />
+<text x="20" y="22" fill="#c0caf5" font-size="16" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial" font-weight="600">🌍 Language Proficiency</text>
+<text x="20" y="45" fill="#c0caf5" font-size="14" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial" font-weight="600">Español</text>
+<text x="20" y="61" fill="#a9b1d6" font-size="12" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial">Nativo / Native</text>
+<rect x="180" y="30" width="520" height="18" fill="#2f3242" rx="9" />
+<rect x="180" y="30" width="520" height="18" fill="#7aa2f7" rx="9" />
+<text x="708" y="45" fill="#c0caf5" font-size="12" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial">100%</text>
+<text x="20" y="87" fill="#c0caf5" font-size="14" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial" font-weight="600">Català</text>
+<text x="20" y="103" fill="#a9b1d6" font-size="12" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial">Natiu / Native</text>
+<rect x="180" y="72" width="520" height="18" fill="#2f3242" rx="9" />
+<rect x="180" y="72" width="520" height="18" fill="#bb9af7" rx="9" />
+<text x="708" y="87" fill="#c0caf5" font-size="12" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial">100%</text>
+
+<text x="20" y="129" fill="#c0caf5" font-size="14" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial" font-weight="600">English</text>
+<text x="20" y="145" fill="#a9b1d6" font-size="12" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial">Level: B1 (improving)</text>
+<rect x="180" y="114" width="520" height="18" fill="#2f3242" rx="9" />
+<rect x="180" y="114" width="312" height="18" fill="#2ac3de" rx="9" />
+<text x="708" y="129" fill="#c0caf5" font-size="12" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial">60%</text>
+<text x="20" y="172" fill="#c0caf5" font-size="14" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial" font-weight="600">📖 Languages in progress</text>
+<text x="20" y="199" fill="#c0caf5" font-size="14" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial" font-weight="600">Deutsch</text>
+<text x="20" y="215" fill="#a9b1d6" font-size="12" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial">Learning</text>
+<rect x="180" y="184" width="520" height="18" fill="#2f3242" rx="9" />
+<rect x="180" y="184" width="10" height="18" fill="#e0af68" rx="9" />
+<text x="708" y="199" fill="#c0caf5" font-size="12" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial">5%</text>
+<text x="20" y="241" fill="#c0caf5" font-size="14" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial" font-weight="600">日本語 (Japanese)</text>
+<text x="20" y="257" fill="#a9b1d6" font-size="12" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial">Learning</text>
+<rect x="180" y="226" width="520" height="18" fill="#2f3242" rx="9" />
+<rect x="180" y="226" width="20" height="18" fill="#f7768e" rx="9" />
+<text x="708" y="241" fill="#c0caf5" font-size="12" font-family="Segoe UI, Roboto, Ubuntu, Cantarell, Arial">20%</text>
+</svg>
